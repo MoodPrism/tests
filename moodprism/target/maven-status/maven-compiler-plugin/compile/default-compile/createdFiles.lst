@@ -1,0 +1,5 @@
+moodprism/MoodprismScheduler.class
+moodprism/MoodprismController.class
+moodprism/MoodprismApplication.class
+moodprism/kafkaConsumer.class
+moodprism/kafkaProducer.class

@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: moodprism.CucumberTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.711 s <<< FAILURE! - in moodprism.CucumberTest
+Press Escape Key  Time elapsed: 0.693 s  <<< ERROR!
+java.lang.NullPointerException
+
